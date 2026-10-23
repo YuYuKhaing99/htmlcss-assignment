@@ -1,0 +1,99 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #c8c87c;
+color: #333333;
+}
+
+header {
+background-color: #245747;
+color: white;
+text-align: center;
+padding: 25px;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+margin: 15px;
+font-size: 18px;
+}
+
+nav a:hover {
+color: #d5e57b;
+}
+
+.page1 {
+text-align: center;
+padding: 30px;
+}
+
+.page1 img {
+width: 60%;
+max-width: 1000px;
+height: 450px;
+object-fit: cover;
+}
+
+.about,
+.content {
+text-align: center;
+padding: 30px;
+}
+
+.product {
+display: inline-block;
+width: 250px;
+margin: 15px;
+padding: 15px;
+background-color: white;
+}
+
+.product img {
+width: 60%;
+height: 180px;
+object-fit: cover;
+}
+
+form {
+width: 300px;
+max-width: 100%;
+margin: 20px auto;
+text-align: left;
+}
+
+label {
+display: block;
+margin-top: 15px;
+}
+
+input,
+textarea {
+width: 100%;
+padding: 10px;
+margin-top: 5px;
+box-sizing: border-box;
+border-radius: 25px;
+}
+
+button {
+margin-top: 15px;
+padding: 12px 20px;
+background-color: #245747;
+color: white;
+border: none;
+cursor: pointer;
+border-radius: 10px;
+}
+
+button:hover {
+background-color: #183d32;
+}
+
+footer {
+background-color: #245747;
+color: white;
+text-align: center;
+padding: 5px;
+margin-top: 40px;
+}
