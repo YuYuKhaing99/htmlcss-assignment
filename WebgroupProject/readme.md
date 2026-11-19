@@ -1,0 +1,3 @@
+19/11/2026
+
+First page of HTML and background picture is added today. The first page includes welcoming text and a short description and inputs of user name and age and start button. The first page prioritise the logo and picture view and clear version for user to register. Our fishing game is inspired by the Finnish style mökki fishing, so the background picture was created Finnish vibe. (YU YU KHAING) 
