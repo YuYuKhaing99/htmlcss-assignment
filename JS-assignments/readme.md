@@ -36,5 +36,12 @@ Tehtävä 4: 2 p
 Tehtävä 10: 2 p
 
 
+### JS-moduulit 5
+
+Tehdyt tehtävät:
+
+Tehtävä 2: 10p
+
+
 
 
